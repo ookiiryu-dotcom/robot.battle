@@ -6,7 +6,7 @@
   },
   "renderer": {
     "maxPixelRatio": 2,
-    "mobileMaxPixelRatio": 1.45,
+    "mobileMaxPixelRatio": 1.58,
     "shadowMapSize": 1536,
     "mobileShadowMapSize": 768,
     "targetFps": 60,
